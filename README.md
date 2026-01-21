@@ -99,5 +99,5 @@ width = 50%>
 
 ## Technical Details
 - **Database:** PostgreSQL
-- **Analysis Tools:** PostgreSQL
+- **Analysis Tools:** PostgreSQL, DBeaver, PgAdmin
 - **Visualization:** ChatGPT

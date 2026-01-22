@@ -55,8 +55,6 @@ width = 50%>
 - In 2023, we saw a drop in number of customers acquired, which is concerning.
 - With lowering LTV and decreasing customer acquisition, the company is facing a potential revenue decline.
 
-***{DEMARCATION: TO BE DELETED}***
-
 ### 3. Retention Analysis
 - Identified customers at risk of churning
 - Analyzed last purchase patterns
@@ -82,17 +80,17 @@ width = 50%>
 
 ## Strategic Recommendations
 
-1. **Customer Value Optimization** (Customer Segmentation) 
+1. **Customer Value Optimization** ***(Customer Segmentation)*** 
 - Launch VIP program for 12,372 high-value customers (66% revenue)
 - Create personalized upgrade paths for mid-value segment ($66.6M to $135.4M oppurtunity)
 - Design price-sensitive promotions for low-value segment to increase purchase frequency
 
-2. **Cohort Performance Strategy** (Customer Revenue by Cohort)
+2. **Cohort Performance Strategy** ***(Customer Revenue by Cohort)***
 - Target 2022-2024 cohorts with personalized re-engagement offers
 - Implement loyalty / subscription programs to stabilize revenue fluctuations
 - Apply successful strategies from high-spending 2016-2018 cohorts to newer customers
 
-3. **Retention and Churn Prevention** (Customer Retention)
+3. **Retention and Churn Prevention** ***(Customer Retention)***
 - Strengthen first 1-2 years engagement with onboarding incentives and loyalty rewards
 - Focus on targeted win-back campaigns for high-value churned customers
 - Implement proactive intervention system for at-risk customers before they lapse
